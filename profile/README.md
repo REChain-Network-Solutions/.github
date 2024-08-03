@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 **Here are some ideas to get you started:**
 
 # REChain Network Solutions
@@ -52,5 +50,3 @@ If you have any questions or need further assistance, feel free to contact us:
 - **Email**: support@rechain.email
 - **Website**: [rechain.network](https://www.rechain.network)
 - **Twitter**: [@REChainNetwork](https://twitter.com/rechain_inc)
-
--->

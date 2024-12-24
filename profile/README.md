@@ -47,6 +47,6 @@ Our vision is to create a new era of the internet—one that is decentralized, s
 
 If you have any questions or need further assistance, feel free to contact us:
 
-- **Email**: support@rechain.email
+- **Email**: support@rechain.network 
 - **Website**: [rechain.network](https://www.rechain.network)
 - **Twitter**: [@REChainNetwork](https://twitter.com/rechain_inc)
